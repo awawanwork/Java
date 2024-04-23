@@ -1,7 +1,7 @@
 public class Addition{
 
     private int first_value, second_value;
-    // private int second_value;
+    // private int second_value;x
     private int result;
 
 
